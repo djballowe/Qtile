@@ -1,2 +1,1 @@
-# Qtile
-Qtile config
+Config file for Qtile window manager
